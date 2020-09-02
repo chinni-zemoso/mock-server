@@ -1,0 +1,82 @@
+{
+  "posts":[
+    {
+      "id": 1,
+      "userId": 1,
+      "image": "http://dummyimage.com/500x250.png/ff4444/ffffff",
+      "title": "quam nec dui luctus rutrum nulla",
+      "body": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+      "postedOn": "16-Apr-2020"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "image": "http://dummyimage.com/500x250.png/5fa2dd/ffffff",
+      "title": "nulla suscipit ligula in",
+      "body": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+      "postedOn": "15-Feb-2020"
+    }
+  ],
+  "comments":[
+    {
+      "id": 1,
+      "postId": 1,
+      "userId": 2,
+      "body": "felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus",
+      "postedOn": "2020-05-29 22:57:01"
+    },
+    {
+      "id": 2,
+      "postId": 1,
+      "userId": 3,
+      "body": "tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim",
+      "postedOn": "2019-10-11 22:55:15"
+    },
+    {
+      "id": 3,
+      "postId": 2,
+      "userId": 4,
+      "body": "praesent lectus vestibulum quam sapien varius ut blandit non interdum",
+      "postedOn": "2020-04-18 10:36:33"
+    },
+    {
+      "id": 4,
+      "postId": 2,
+      "userId": 5,
+      "body": "pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper",
+      "postedOn": "2020-03-26 08:16:02"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Kahaleel",
+      "email": "kmackegg0@go.com",
+      "image": "https://robohash.org/velautemdolores.jpg?size=40x40&set=set1"
+    },
+    {
+      "id": 2,
+      "name": "Caspar",
+      "email": "ciskower1@reddit.com",
+      "image": "https://robohash.org/officiaetet.jpg?size=40x40&set=set1"
+    },
+    {
+      "id": 3,
+      "name": "Davy",
+      "email": "dmasding2@craigslist.org",
+      "image": "https://robohash.org/eumveritatisqui.bmp?size=40x40&set=set1"
+    },
+    {
+      "id": 4,
+      "name": "Arlie",
+      "email": "abolitho3@wsj.com",
+      "image": "https://robohash.org/consequaturadet.png?size=40x40&set=set1"
+    },
+    {
+      "id": 5,
+      "name": "Pauletta",
+      "email": "ppiola4@yolasite.com",
+      "image": "https://robohash.org/ipsamexercitationempossimus.jpg?size=40x40&set=set1"
+    }
+  ]
+}
